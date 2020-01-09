@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.MainTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-01-09T13:17:30" hostname="admin1-LIVA-Z2V" time="15.324">
+  <properties/>
+  <testcase name="Login" classname="com.bridgelabz.selenium.MainTest" time="8.775"/>
+  <testcase name="SignUpForm" classname="com.bridgelabz.selenium.MainTest" time="3.3"/>
+  <testcase name="dropDown" classname="com.bridgelabz.selenium.MainTest" time="1.865"/>
+  <testcase name="radioButton" classname="com.bridgelabz.selenium.MainTest" time="1.225"/>
+  <testcase name="signUp" classname="com.bridgelabz.selenium.MainTest" time="0.145"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
