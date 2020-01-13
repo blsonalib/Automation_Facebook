@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.selenium.VerifyUNandPWDalignment" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-13T07:49:11" hostname="admin1-LIVA-Z2V" time="5.749">
+  <properties/>
+  <testcase name="forSize" classname="com.bridgelabz.selenium.VerifyUNandPWDalignment" time="5.749"/>
+  <system-out><![CDATA[Size of UN in x axis  :711
+width of UN150
+height of UN23
+Size of Pass in x axis  :711
+width of pass150
+height of pass23
+Username and password text box are aligned
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 78.0.3904.105 (60e2d8774a8151efa6a00b1f358371b1e0e07ee2-refs/branch-heads/3904@{#877}) on port 27664
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Jan 13, 2020 1:19:13 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
